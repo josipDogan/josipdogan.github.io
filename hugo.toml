@@ -1,9 +1,0 @@
-baseURL = 'https://lislis.github.io/aljosa-website'
-languageCode = 'en-us'
-title = 'Aljoša Dakić'
-
-theme = "hugo-theme-gallery"
-
-[params]
-  [params.socialIcons]
-    email = "mailto:work (at) aljosadakic.com"
