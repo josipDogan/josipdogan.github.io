@@ -41,8 +41,9 @@ Light consoles that I’ve worked on:
 
 - Martin
 
+- Chamsys
+
 - grandMA
 
 - Avolites
 
-test
