@@ -2,7 +2,7 @@
 description: Working with light
 menus: "main"
 title: Light
-weight: 8
+weight: 2
 params:
   private: true
   featured_image: "JMS_2475small.webp"
