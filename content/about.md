@@ -2,22 +2,24 @@
 layout: prose
 rss_ignore: true
 title: About
-menu:
+description: About me
+menus:
   main:
-    weight: 90
+    name: About
+    weight: 4
 ---
-
 ![pic](../images/about.jpg)
 
 Born in 1995
 
-Bachelor at Faculty of Dramatic Arts in Serbia
+Bachelor at Faculty of Dramatic Arts in Serbia.
 
 Master at Film University Babelsberg in Germany.
 
-Drive for filmmaking since the age of 7. Lot of experimenting and  having fun. Film studies have introduced me to professional environments.
+Drive for filmmaking since the age of 7. 
 
 Along the way I self-learned to do animation, music and live visuals.
+
 
 Software that I use:
 

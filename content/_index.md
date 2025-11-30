@@ -1,5 +1,5 @@
 ---
-description: working with Light as film director, cinematographer and light designer
+description:  working with Light as film director, cinematographer and light designer
 title: Aljoša Dakić
 resources:
   - src: images/about.jpg
